@@ -1,0 +1,81 @@
+rhyming patterns reference 
+(for use in expanding the couplet-make; untested in various paterns' accuracy, this is REFERENCE ONLY currently)
+
+*(A "-" hyphen symbol represents a clause or relatively long amount of words for a line. 
+The concept is two "beats" per line, where the first beat doesn't always correlate to something significant in the pattern. 
+In such cases, the symbol representing said filler-content is "-"
+
+Enclosed rhyme couplets
+AB
+BA
+CD
+DC
+
+Long-enclosed rhyme (internal rhyming interlude)
+-A
+-A
+BB
+-A
+
+Enclosed Rhyme (no internal rhyme on interlude)
+
+Terza Rima
+ABA
+BCB
+CDC
+DED
+EE
+
+Villanelle -
+(5 stanzas of ABA)
+Ening with ABAA
+
+Cornered internal couplet
+AA
+BA
+BC
+CC
+
+Phrasal couplets
+AB
+AB
+CD
+CD
+
+Basic couplet
+-A
+-A
+-B
+-B
+
+Internal couplet
+AA
+-A
+BB
+-B
+
+Internal Heterogenous-Ending couplet
+AA-B
+CC-B
+
+Sonnet - 14 lines
+AB
+AB
+CD
+CD
+EF
+EF
+GG
+
+Ballade Stanza (3 of these make a ballade, ending with BCBC)
+AB
+AB
+BC
+BC
+
+Limerick: 
+-,-A
+-,-A
+-B,
+-B
+-,- A*
