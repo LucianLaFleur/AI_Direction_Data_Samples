@@ -1,0 +1,5 @@
+Devnotes-
+
+12/16/2024 -
+Revised the couplet-maker for making poetry out of common language.
+(I'm trying to lyricize snippets of a book I'm editing...)
